@@ -1,0 +1,248 @@
+﻿ID,Sample,Age,Sex,Schistosomiasis,IS,UGS,ESBL_Ec,abx_6mo,piped_water,freshwater_contact,stagnant_water_contact
+S.1.AWW.04,fS5,14,male,No,No,No,0,No,No,Once daily,More than once daily
+S.1.AWW.05,fS6,9,female,No,No,No,1,No,No,Once daily,More than once daily
+S.1.AWW.06,fS7,9,female,No,No,No,0,No,No,More than once daily,More than once daily
+S.1.AWX.02,nS1,13,female,Yes,Yes,No,0,No,Yes,Once daily,Never
+S.1.AWX.04,fS9,7,male,No,No,No,0,No,Yes,Never,Once daily
+S.1.AWY.02,nS2,13,female,Yes,Yes,No,1,No,Yes,Once daily,Once daily
+S.1.AWY.03,nS3,6,female,No,No,No,1,No,Yes,Once daily,Never
+S.1.AWZ.04,fS10,6,female,Yes,No,Yes,1,Yes,Yes,Once daily,Never
+S.1.AXB.03,nS5,13,female,No,No,No,0,Yes,Yes,Once daily,Never
+S.1.AXB.04,nS6,14,female,No,No,No,1,Yes,Yes,Never,Never
+S.1.AXE.03,nS7,13,male,No,No,No,0,No,Yes,Weekly,Never
+S.1.AXE.04,nS8,12,male,Yes,Yes,No,1,No,Yes,More than once daily,Once daily
+S.1.AXE.05,fS12,6,male,Yes,Yes,No,1,No,No,Once daily,Never
+S.1.AXH.04,fS14,6,male,No,No,No,1,Yes,No,Once daily,More than once daily
+S.1.AXK.03,fS17,12,male,Yes,Yes,No,0,,No,More than once daily,
+S.1.AXK.04,fS18,7,female,Yes,Yes,Yes,0,,No,Once daily,
+S.1.AXL.02,nS9,14,female,Yes,No,Yes,0,No,No,More than once daily,More than once daily
+S.1.AXM.03,nS11,6,male,No,No,No,0,Not sure,Yes,More than once daily,Once daily
+S.1.AXN.05,nS12,10,female,Yes,Yes,Yes,0,Not sure,Yes,More than once daily,Once daily
+S.1.AXP.03,nS13,10,male,No,No,No,1,No,Yes,Once daily,More than once daily
+S.1.AXP.04,fS23,7,male,No,No,No,0,Yes,Yes,Once daily,More than once daily
+S.1.AXQ.04,fS24,6,male,Yes,Yes,No,1,Yes,No,More than once daily,More than once daily
+S.1.AXR.03,nS15,13,male,Yes,Yes,No,1,No,No,Weekly,Never
+S.1.AXS.05,fS25,8,female,Yes,Yes,No,1,No,Yes,Once daily,Once daily
+S.1.AXW.02,nS18,13,male,Yes,Yes,Yes,1,No,Yes,Once daily,More than once daily
+S.1.AXW.03,nS19,10,female,Yes,Yes,No,0,No,Yes,Once daily,More than once daily
+S.1.AXY.03,nS21,10,female,No,No,No,0,No,No,More than once daily,More than once daily
+S.1.AXY.04,nS22,6,male,No,No,No,0,Yes,No,Weekly,Weekly
+S.1.AXZ.02,nS23,10,male,No,No,No,0,No,No,Weekly,Once daily
+S.1.AYE.03,fS30,10,female,Yes,Yes,Yes,0,Yes,No,More than once daily,Weekly
+S.1.AYF.02,nS32,6,male,Yes,No,Yes,0,,Yes,More than once daily,
+S.1.AYJ.03,nS35,11,male,No,No,No,0,No,Yes,More than once daily,Weekly
+S.1.AYK.03,nS36,7,male,Yes,Yes,No,0,Yes,Yes,More than once daily,More than once daily
+S.1.AYL.04,nS37,10,female,No,No,No,1,No,Yes,More than once daily,Never
+S.1.AYP.02,nS38,13,female,No,No,No,1,Yes,No,More than once daily,More than once daily
+S.1.AYQ.04,nS40,13,male,Yes,Yes,No,0,No,Yes,Once daily,Once daily
+S.1.AYR.04,nS41,12,female,No,No,No,1,Yes,Yes,More than once daily,More than once daily
+S.1.AYT.02,nS43,7,male,Yes,Yes,Yes,0,No,Yes,Yearly,Never
+S.1.AYW.02,nS44,15,female,Yes,Yes,Yes,1,No,Yes,Weekly,Never
+S.1.AYW.03,nS45,12,male,No,No,No,0,Yes,No,Weekly,Monthly
+S.1.AYX.03,fS37,11,male,Yes,Yes,No,1,Yes,No,More than once daily,Weekly
+S.1.AYX.04,fS38,8,male,Yes,Yes,No,0,No,No,More than once daily,More than once daily
+S.1.AYX.05,fS39,6,male,Yes,Yes,No,1,No,No,More than once daily,Once daily
+S.1.AYZ.03,fS40,6,male,Yes,Yes,No,0,Yes,Yes,Never,Never
+S.1.AZA.02,nS51,13,female,No,No,No,1,No,No,More than once daily,Never
+S.1.AZC.02,fS42,8,female,No,No,No,1,No,Yes,Once daily,Never
+S.1.AZC.03,fS43,7,male,No,No,No,0,Yes,Yes,Once daily,Once daily
+S.1.AZG.05,nS52,12,male,Yes,No,Yes,0,No,No,More than once daily,More than once daily
+S.1.AZJ.03,nS54,13,male,Yes,Yes,Yes,1,Yes,No,Once daily,Never
+S.1.AZK.01,fS46,11,female,No,No,No,1,No,No,Never,Never
+S.1.AZM.04,nS55,13,female,Yes,No,Yes,1,No,Yes,More than once daily,Once daily
+S.1.AZT.02,nS62,11,female,Yes,Yes,No,0,Yes,Yes,Once daily,Once daily
+S.1.AZU.03,fS51,14,male,No,No,No,0,No,No,More than once daily,More than once daily
+S.1.AZU.04,nS63,12,female,Yes,No,Yes,0,Yes,No,More than once daily,More than once daily
+S.1.AZW.01,nS64,11,female,Yes,Yes,Yes,0,No,No,Once daily,Never
+S.1.AZW.02,nS65,15,male,Yes,Yes,Yes,0,No,No,More than once daily,More than once daily
+S.1.BAC.02,fS54,8,male,Yes,Yes,No,1,No,No,Once daily,More than once daily
+S.1.BAG.03,nS72,10,male,No,No,No,0,,No,More than once daily,
+S.1.BAH.04,nS73,10,female,Yes,No,Yes,1,Yes,Yes,More than once daily,Never
+S.1.BAH.05,nS74,9,male,No,No,No,1,Yes,Yes,Once daily,Never
+S.1.BAN.02,nS76,10,male,Yes,Yes,Yes,1,No,No,More than once daily,More than once daily
+S.1.BAN.03,nS77,8,male,Yes,Yes,Yes,1,No,No,More than once daily,More than once daily
+S.1.BAR.02,nS80,12,female,Yes,No,Yes,1,No,No,More than once daily,Never
+S.1.BAT.01,nS82,12,female,Yes,No,Yes,1,No,No,Never,Never
+S.1.BAT.03,nS83,9,male,No,No,No,1,No,No,More than once daily,More than once daily
+S.1.BAX.04,nS86,14,female,Yes,No,Yes,1,No,No,Once daily,Once daily
+S.1.BAY.05,nS88,12,female,Yes,Yes,No,1,No,No,More than once daily,Never
+S.1.BAZ.02,fS62,11,female,No,No,No,1,No,No,More than once daily,More than once daily
+S.1.BBA.04,nS91,11,female,No,No,No,0,Yes,No,More than once daily,More than once daily
+S.1.BBA.05,fS63,7,female,No,No,No,1,No,No,More than once daily,More than once daily
+S.1.BBB.05,nS93,8,female,No,No,No,1,Yes,No,More than once daily,More than once daily
+S.1.BBC.03,nS95,10,female,Yes,No,Yes,1,No,Yes,Once daily,Never
+S.1.BBC.04,nS96,8,female,No,No,No,0,No,Yes,More than once daily,Never
+S.1.BBE.03,nS98,9,female,No,No,No,0,No,Yes,More than once daily,Never
+S.1.BBF.03,nS100,13,male,Yes,Yes,Yes,0,Yes,No,More than once daily,More than once daily
+S.1.BBF.04,nS101,11,female,Yes,Yes,Yes,0,Yes,No,More than once daily,More than once daily
+S.1.BBF.06,nS102,7,male,No,No,No,1,Yes,No,More than once daily,More than once daily
+S.1.BBG.01,fS64,13,male,Yes,Yes,Yes,1,Yes,Yes,More than once daily,More than once daily
+S.1.BBG.02,fS65,9,male,Yes,Yes,Yes,0,Yes,Yes,More than once daily,More than once daily
+S.1.BBI.01,nS103,13,male,Yes,No,Yes,1,No,Yes,More than once daily,Monthly
+S.1.BBM.02,nS105,13,male,Yes,No,Yes,1,Yes,No,More than once daily,More than once daily
+S.1.BBP.01,nS106,11,male,Yes,Yes,No,1,No,No,Once daily,Once daily
+S.1.BBS.05,fS72,6,female,No,No,No,1,Yes,No,Once daily,Never
+S.1.BBV.03,fS73,6,male,No,No,No,1,No,Yes,Once daily,Never
+S.1.BBX.04,nS108,12,female,Yes,Yes,Yes,1,Yes,No,Once daily,Never
+S.1.BBY.03,fS74,6,female,No,No,No,1,No,Yes,More than once daily,More than once daily
+S.1.BBZ.04,nS110,15,male,Yes,Yes,Yes,1,No,Yes,More than once daily,More than once daily
+S.1.BBZ.06,nS111,12,female,No,No,No,1,No,Yes,More than once daily,More than once daily
+S.1.BCP.02,fS80,6,female,Yes,Yes,No,1,No,Yes,Once daily,Once daily
+S.1.BCR.01,nS117,10,male,Yes,Yes,No,0,No,No,Weekly,Once daily
+S.1.BCT.02,fS81,6,male,No,No,No,1,No,Yes,More than once daily,More than once daily
+S.1.BCU.02,fS82,12,male,Yes,Yes,Yes,0,,No,Once daily,
+S.1.BCZ.04,nS121,12,female,Yes,Yes,Yes,1,,Yes,More than once daily,
+S.1.BDF.03,nS123,11,female,Yes,Yes,No,1,,No,More than once daily,
+S.1.BDF.04,nS124,7,female,Yes,No,Yes,1,,No,Once daily,
+S.1.BDI.02,fS83,12,male,Yes,Yes,Yes,1,Not sure,No,More than once daily,More than once daily
+S.1.BDL.03,fS86,6,female,Yes,Yes,No,1,No,No,Once daily,Once daily
+S.1.BDO.06,nS129,8,female,Yes,No,Yes,0,Yes,Yes,More than once daily,More than once daily
+S.1.BDT.05,nS131,10,female,No,No,No,0,Yes,Yes,Once daily,Once daily
+S.1.BDW.03,nS133,8,female,Yes,Yes,No,1,No,No,Never,Never
+S.1.BED.03,fS94,6,male,Yes,Yes,No,0,No,No,Weekly,Weekly
+S.1.BED.06,nS134,10,female,No,No,No,0,Yes,No,Once daily,Once daily
+S.1.BEE.02,nS135,11,female,No,No,No,0,Yes,No,More than once daily,More than once daily
+S.1.BEE.03,nS136,10,male,Yes,Yes,No,1,No,No,More than once daily,More than once daily
+S.2.APP.04,nS137,13,female,Yes,Yes,No,1,Yes,No,Once daily,Never
+S.2.APP.07,nS138,7,male,Yes,Yes,No,1,Yes,No,Never,Yearly
+S.2.APQ.02,fS101,6,female,No,No,No,1,Yes,No,Once daily,Never
+S.2.APR.04,nS140,13,male,No,No,No,1,No,No,Never,Never
+S.2.APS.05,nS141,13,female,Yes,Yes,No,1,No,No,Weekly,Never
+S.2.APS.06,nS142,7,male,No,No,No,1,No,No,Never,Never
+S.2.APT.04,nS144,8,male,No,No,No,1,No,No,Weekly,More than once daily
+S.2.APU.03,nS145,8,female,No,No,No,1,Yes,No,More than once daily,Three times a week
+S.2.APU.04,nS146,11,male,Yes,Yes,No,0,Yes,No,Once daily,Once daily
+S.2.APW.02,fS104,7,female,Yes,Yes,No,0,Yes,Yes,,Once daily
+S.2.APW.03,fS105,8,male,No,No,No,0,Yes,Yes,More than once daily,Once daily
+S.2.APX.02,nS147,12,male,No,No,No,0,Yes,No,Once daily,Once daily
+S.2.APX.03,nS148,8,male,Yes,Yes,No,0,Yes,Yes,More than once daily,More than once daily
+S.2.APX.04,fS107,7,female,Yes,Yes,Yes,0,,Yes,Once daily,
+S.2.APY.02,fS108,8,male,No,No,No,0,No,Yes,More than once daily,Once daily
+S.2.APY.04,fS110,11,male,Yes,Yes,No,0,Not sure,Yes,Once daily,Once daily
+S.2.APZ.02,nS149,9,female,Yes,Yes,Yes,0,Yes,Yes,Once daily,Never
+S.2.AQA.02,nS150,9,male,Yes,Yes,Yes,1,,Yes,Once daily,
+S.2.AQC.03,fS111,7,female,Yes,Yes,Yes,1,,No,Three times a week,
+S.2.AQG.03,fS112,12,male,No,No,No,0,No,No,Once daily,Never
+S.2.AQH.02,nS154,10,female,No,No,No,0,No,No,More than once daily,Every other month
+S.2.AQH.03,nS155,8,male,Yes,Yes,No,0,,No,More than once daily,
+S.2.AQL.03,fS116,8,male,No,No,No,0,No,No,Once daily,Once daily
+S.2.AQL.04,nS156,6,male,No,No,No,0,No,Yes,Once daily,Never
+S.2.AQO.03,nS157,6,female,No,No,No,1,No,No,More than once daily,More than once daily
+S.2.AQS.04,nS159,11,female,Yes,Yes,Yes,1,Yes,No,Once daily,Once daily
+S.2.AQS.05,nS160,8,male,No,No,No,0,Yes,No,More than once daily,More than once daily
+S.2.AQT.06,nS161,10,male,Yes,Yes,Yes,0,Not sure,No,More than once daily,Never
+S.2.AQU.02,nS162,14,female,Yes,No,Yes,1,Yes,Yes,Once daily,Never
+S.2.AQU.05,nS163,9,female,No,No,No,0,Yes,No,More than once daily,Never
+S.2.AQV.05,nS164,13,male,Yes,Yes,Yes,1,,No,Never,
+S.2.AQV.06,nS165,12,female,Yes,Yes,No,0,Yes,No,Monthly,Never
+S.2.AQV.08,nS166,15,male,No,No,No,1,Yes,Yes,More than once daily,Never
+S.2.AQX.03,nS167,9,male,No,No,No,1,,No,Once daily,
+S.2.AQY.02,nS168,8,female,No,No,No,0,No,Yes,Never,Never
+S.2.AQZ.06,nS171,10,female,Yes,Yes,No,0,No,Yes,Once daily,Never
+S.2.ARA.02,nS172,12,male,No,No,No,0,Yes,No,Once daily,Once daily
+S.2.ARB.05,fS124,6,male,Yes,Yes,Yes,0,No,No,Once daily,Weekly
+S.2.ARB.06,nS173,12,female,Yes,Yes,Yes,0,Yes,Yes,More than once daily,More than once daily
+S.2.ARB.07,nS174,7,female,Yes,Yes,Yes,0,No,No,Once daily,Once daily
+S.2.ARE.03,nS176,9,male,Yes,No,Yes,0,Yes,Yes,More than once daily,More than once daily
+S.2.ARE.05,nS177,14,female,Yes,Yes,No,0,Yes,Yes,More than once daily,More than once daily
+S.2.ARG.04,nS179,13,male,Yes,No,Yes,1,Yes,No,More than once daily,Never
+S.2.ARJ.04,fS128,6,female,Yes,Yes,No,1,Yes,Yes,Once daily,Once daily
+S.2.ARK.04,nS182,6,female,Yes,Yes,No,0,Yes,No,Once daily,Once daily
+S.2.ARO.04,nS185,10,female,Yes,No,Yes,1,No,No,Once daily,Never
+S.2.ARO.06,nS186,11,female,Yes,Yes,No,0,No,No,Weekly,Never
+S.2.ARP.05,nS187,8,female,Yes,Yes,No,0,No,No,Once daily,Never
+S.2.ARQ.02,nS188,14,male,Yes,Yes,Yes,0,Not sure,Yes,Never,Weekly
+S.2.ARR.03,nS189,9,male,Yes,No,Yes,0,Yes,No,More than once daily,More than once daily
+S.2.ARS.02,fS133,6,female,Yes,No,Yes,1,Yes,Yes,Once daily,Never
+S.2.ARV.05,nS191,9,male,Yes,Yes,Yes,1,,Yes,More than once daily,
+S.2.ARX.04,nS192,13,male,Yes,Yes,No,1,,Yes,More than once daily,
+S.2.ARZ.01,nS193,11,male,Yes,Yes,No,0,No,Yes,More than once daily,Never
+S.2.ARZ.02,nS194,10,male,No,No,No,1,No,Yes,More than once daily,Never
+S.2.ASA.04,nS195,8,male,No,No,No,1,No,No,More than once daily,Never
+S.2.ASB.02,nS196,8,female,Yes,No,Yes,0,Yes,Yes,More than once daily,More than once daily
+S.2.ASF.03,nS197,7,female,Yes,Yes,Yes,1,Yes,Yes,Once daily,Once daily
+S.2.ASF.05,nS198,14,male,Yes,Yes,Yes,1,No,No,Once daily,Never
+S.2.ASF.06,nS199,8,female,Yes,Yes,Yes,1,Yes,Yes,More than once daily,More than once daily
+S.2.ASG.02,nS200,11,male,Yes,Yes,No,1,Yes,Yes,Once daily,Once daily
+S.3.ASJ.03,nS204,13,female,Yes,Yes,No,0,No,Yes,Once daily,Never
+S.3.ASK.02,nS205,14,female,No,No,No,0,No,Yes,Once daily,Once daily
+S.3.ASK.03,nS206,12,female,Yes,Yes,No,1,Yes,Yes,More than once daily,More than once daily
+S.3.ASK.05,fS139,7,male,No,No,No,1,No,Yes,Once daily,Once daily
+S.3.ASM.01,nS207,11,female,No,No,No,0,Yes,Yes,More than once daily,Yearly
+S.3.ASM.02,nS208,8,female,No,No,No,0,Yes,No,Weekly,Yearly
+S.3.ASP.03,fS143,9,male,Yes,Yes,Yes,1,Yes,Yes,Once daily,More than once daily
+S.3.ASP.04,fS144,6,male,No,No,No,1,Yes,Yes,Once daily,Once daily
+S.3.ASV.03,nS211,14,female,Yes,Yes,No,0,Yes,No,Three times a week,Yearly
+S.3.ASV.05,nS212,7,female,Yes,Yes,No,1,No,No,Three times a week,Yearly
+S.3.ASW.06,nS213,9,female,Yes,Yes,Yes,0,Yes,Yes,Once daily,Never
+S.3.ASY.04,nS215,9,male,Yes,Yes,No,0,Yes,Yes,More than once daily,Once daily
+S.3.ATB.04,nS218,9,female,Yes,Yes,No,1,No,Yes,More than once daily,Once daily
+S.3.ATC.03,nS219,12,male,Yes,Yes,No,1,No,Yes,Once daily,Never
+S.3.ATD.04,fS148,7,male,Yes,Yes,No,1,No,No,More than once daily,Never
+S.3.ATD.05,fS149,6,female,Yes,Yes,Yes,1,No,No,Once daily,Never
+S.3.ATF.05,nS221,7,male,Yes,Yes,No,0,Yes,No,More than once daily,Once daily
+S.3.ATH.02,nS223,15,male,Yes,Yes,No,1,No,Yes,More than once daily,More than once daily
+S.3.ATK.03,nS224,14,female,Yes,Yes,No,0,Yes,No,More than once daily,More than once daily
+S.3.ATL.05,nS225,13,female,Yes,No,Yes,0,Yes,No,More than once daily,More than once daily
+S.3.ATR.04,nS226,9,female,No,No,No,1,No,Yes,More than once daily,More than once daily
+S.3.ATR.06,nS227,15,male,Yes,Yes,Yes,1,No,Yes,Weekly,Never
+S.3.ATS.02,fS159,7,female,Yes,No,Yes,1,Yes,No,More than once daily,Weekly
+S.3.ATT.02,nS228,7,female,Yes,Yes,No,0,Yes,No,Once daily,Weekly
+S.3.ATT.03,nS229,12,female,No,No,No,0,No,Yes,Once daily,Once daily
+S.3.ATU.05,nS230,12,female,Yes,Yes,No,0,No,Yes,More than once daily,More than once daily
+S.3.ATW.06,nS232,10,male,Yes,Yes,Yes,1,,No,More than once daily,
+S.3.ATW.07,nS233,6,male,Yes,Yes,No,1,No,Yes,More than once daily,Never
+S.3.AUA.03,nS234,8,female,No,No,No,0,Yes,No,More than once daily,Never
+S.3.AUB.04,nS235,11,female,Yes,Yes,No,1,Yes,Yes,More than once daily,Never
+S.3.AUC.03,fS161,6,male,Yes,Yes,Yes,0,Yes,Yes,More than once daily,Never
+S.3.AUF.01,nS237,10,female,Yes,Yes,Yes,0,Yes,Yes,Once daily,Never
+S.3.AUG.04,nS238,14,male,No,No,No,0,No,Yes,Once daily,Never
+S.3.AUH.03,fS164,6,male,Yes,No,Yes,0,Yes,Yes,Once daily,Once daily
+S.3.AUH.04,nS239,15,male,No,No,No,1,,,,
+S.3.AUK.03,nS241,14,male,No,No,No,0,No,Yes,Once daily,Never
+S.3.AUK.05,nS242,10,female,No,No,No,0,Yes,Yes,Once daily,Once daily
+S.3.AUP.04,nS243,9,male,Yes,Yes,Yes,1,Not sure,Yes,More than once daily,Never
+S.3.AUQ.03,nS244,9,male,No,No,No,0,No,Yes,More than once daily,Never
+S.3.AUQ.04,nS245,9,male,Yes,Yes,No,1,No,Yes,More than once daily,Never
+S.3.AUR.04,nS246,10,female,No,No,No,0,Yes,No,Once daily,Yearly
+S.3.AUS.03,nS247,14,male,Yes,No,Yes,0,No,No,More than once daily,Yearly
+S.3.AUU.04,nS249,12,male,No,No,No,1,No,Yes,Three times a week,Weekly
+S.3.AUX.03,nS251,11,female,Yes,Yes,Yes,1,No,No,Once daily,Once daily
+S.3.AUX.04,nS252,12,male,No,No,No,1,No,No,Once daily,Never
+S.3.AUX.05,nS253,6,female,No,No,No,0,Yes,No,More than once daily,Never
+S.3.AUZ.03,nS254,9,female,Yes,Yes,Yes,1,No,No,Once daily,Once daily
+S.3.AUZ.04,fS170,8,female,Yes,Yes,No,1,No,No,More than once daily,Never
+S.3.AUZ.05,fS171,8,male,Yes,Yes,No,1,No,Yes,Never,Never
+S.3.AVB.02,nS255,11,male,No,No,No,1,No,Yes,Never,Never
+S.3.AVB.03,nS256,13,female,No,No,No,0,,,,
+S.3.AVC.04,nS258,9,male,No,No,No,0,Yes,Yes,More than once daily,Once daily
+S.3.AVC.06,nS259,12,male,Yes,No,Yes,0,No,Yes,Weekly,Weekly
+S.3.AVH.04,nS260,15,male,Yes,Yes,Yes,0,Yes,Yes,More than once daily,More than once daily
+S.3.AVH.05,nS261,11,female,Yes,Yes,Yes,0,Yes,Yes,More than once daily,More than once daily
+S.3.AVI.05,nS262,14,male,Yes,Yes,No,0,No,Yes,Once daily,More than once daily
+S.3.AVJ.02,nS263,11,male,No,No,No,0,Yes,No,More than once daily,More than once daily
+S.3.AVK.03,nS264,14,female,Yes,Yes,No,0,No,No,Weekly,Never
+S.3.AVR.06,fS174,7,male,Yes,Yes,Yes,1,Yes,No,Once daily,More than once daily
+S.3.AVS.04,nS268,15,female,Yes,Yes,No,1,No,Yes,More than once daily,More than once daily
+S.3.AVS.05,nS269,10,male,Yes,Yes,No,0,Yes,Yes,More than once daily,More than once daily
+S.3.AVS.06,nS270,6,female,No,No,No,1,No,Yes,Weekly,More than once daily
+S.3.AVT.04,nS271,11,male,Yes,Yes,Yes,1,No,No,More than once daily,Never
+S.3.AVV.02,nS272,10,male,Yes,Yes,Yes,0,No,No,More than once daily,Never
+S.3.AVX.02,nS274,11,male,Yes,Yes,Yes,0,Yes,Yes,More than once daily,Never
+S.3.AVZ.02,fS178,8,female,No,No,No,0,No,Yes,More than once daily,More than once daily
+S.3.AVZ.03,nS275,15,female,Yes,No,Yes,0,No,Yes,More than once daily,Once daily
+S.3.AWC.02,nS276,12,female,No,No,No,0,Yes,Yes,More than once daily,More than once daily
+S.3.AWC.03,nS277,13,male,Yes,Yes,Yes,0,No,No,More than once daily,Never
+S.3.AWD.03,nS280,12,male,No,No,No,0,Yes,Yes,More than once daily,Never
+S.3.AWF.01,nS281,10,female,No,No,No,0,Not sure,No,Once daily,More than once daily
+S.3.AWG.05,nS282,10,male,Yes,Yes,Yes,1,No,Yes,More than once daily,Never
+S.3.AWG.06,nS283,7,male,Yes,Yes,No,0,No,Yes,More than once daily,Never
+S.3.AWI.03,nS284,10,female,Yes,Yes,Yes,0,Yes,No,Once daily,Once daily
+S.3.AWK.02,fS184,6,female,Yes,Yes,Yes,0,No,No,Never,Never
+S.3.AWK.04,nS288,15,female,Yes,Yes,Yes,0,No,No,Never,Never
+S.3.AWM.02,nS289,13,male,No,No,No,1,Yes,Yes,More than once daily,Weekly
+S.3.AWM.03,nS290,10,female,Yes,Yes,No,0,Yes,Yes,More than once daily,Weekly
+S.3.AWP.03,nS291,7,female,No,No,No,0,No,Yes,More than once daily,Weekly
+S.3.AWU.02,nS292,11,female,Yes,No,Yes,0,No,No,More than once daily,Yearly
+S.3.AWU.03,fS188,6,female,Yes,Yes,Yes,0,No,No,Weekly,Weekly
+S.3.AWV.02,fS190,6,male,No,No,No,1,No,Yes,Never,Never

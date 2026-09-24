@@ -1,0 +1,37 @@
+﻿MAG,GTDB_taxonomy,Phylum,MAG_quality,ARG,Class
+Z3_bin.60,Agathobacter rectalis,Actinomycetota,High,Tet(M),Tetracycline
+U3_bin.84,Agathobacter spp.,Actinomycetota,High,Tet(M),Tetracycline
+Z7_bin.99,Akkermansia muciniphila,Verrucomicrobiota,High,Aph(3'')-Ib,Aminoglycoside
+C1_bin.47,Alloprevotella sp900543155,Bacteroidota,Medium,CfxA3,Beta-lactam
+C9_bin.42,Bacteroides fragilis_A,Bacteroidota,High,CfiA4,Beta-lactam (carbapenem)
+Z11_bin.33,Bacteroides fragilis_A,Bacteroidota,Medium,CfiA4,Beta-lactam (carbapenem)
+Z2_bin.20,Brachyspira pilosicoli,Spirochaetota,High,OXA-471,Beta-lactam
+C8_bin.134,CAG-465 sp000433755,Bacillota,Medium,Tet(44),Tetracycline
+U3_bin.54,CAG-533 sp900553855,Bacillota,Medium,Tet(44),Tetracycline
+U8_bin.155,Campylobacter infans,Campylobacterota,High,OXA-471,Beta-lactam
+Z9_bin.37,Campylobacter infans,Campylobacterota,Medium,OXA-471,Beta-lactam
+C5_bin.139,Clostridium sp000435835,Bacillota,Medium,TetA(P),Tetracycline
+C5_bin.139,Clostridium sp000435835,Bacillota,Medium,TetB(P),Tetracycline
+Z10_bin.15,Clostridium sp000435835,Bacillota,Medium,TetB(P),Tetracycline
+Z10_bin.15,Clostridium sp000435835,Bacillota,Medium,TetA(P),Tetracycline
+Z6_bin.161,Clostridium sp000435835,Bacillota,Medium,TetB(P),Tetracycline
+Z6_bin.161,Clostridium sp000435835,Bacillota,Medium,TetA(P),Tetracycline
+C3_bin.16,Clostridium sp900540255,Bacillota,High,TetA(P),Tetracycline
+C3_bin.16,Clostridium sp900540255,Bacillota,High,TetB(P),Tetracycline
+U11_bin.64,Clostridium sp900540255,Bacillota,High,TetA(P),Tetracycline
+U11_bin.64,Clostridium sp900540255,Bacillota,High,TetB(P),Tetracycline
+Z8_bin.89,Cryptobacteroides sp000435075,Bacteroidota,High,CfxA3,Beta-lactam
+C9_bin.56,Enterococcus_B lactis,XXX,High,Msr(C),Macrolide-streptogramin B
+C9_bin.56,Enterococcus_B lactis,XXX,High,Aac(6')-Ii,Aminoglycoside
+C4_bin.89,ER4 sp000765235,XXX,High,Tet(W),Tetracycline
+C12_bin.49,Eubacterium_G sp900548465,XXX,Medium,Erm(T),MSLb(macrolide-lincosamide-streptogramin B)
+Z5_bin.57,F23-B02 sp003533405,XXX,High,Tet(W),Tetracycline
+Z7_bin.116,Faecivicinus sp900759005,XXX,Medium,RmtD,Aminoglycoside
+U2_bin.65,Holdemanella biformis,XXX,Medium,Tet(M),Tetracycline
+Z11_bin.37,Holdemanella spp.,XXX,Medium,Tet(M),Tetracycline
+Z6_bin.136,Prevotella sp900313215,XXX,Medium,Erm(G),MSLb(macrolide-lincosamide-streptogramin B)
+Z6_bin.136,Prevotella sp900313215,XXX,Medium,Msr(D),Macrolide-streptogramin B
+Z6_bin.136,Prevotella sp900313215,XXX,Medium,Mef(A),Macrolide
+Z6_bin.113,SFHK01 sp004556395,XXX,High,RmtF,Aminoglycoside
+Z7_bin.127,SFHK01 sp004556395,XXX,High,RmtF,Aminoglycoside
+U7_bin.123,UMGS1668 sp900553955,XXX,Medium,Ant(6)-Ia,Aminoglycoside
