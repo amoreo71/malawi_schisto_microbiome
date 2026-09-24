@@ -2,4 +2,4 @@
 
 ## Data and code repository for study on gut microbiome signatures associated with *S. haematobium* group infections in Mangochi District, Malawi
 
-The data required to run the [analysis](https://amoreo71.github.io/malawi_esbl_e_coli_genomics/code/XYZ.html) in R can be found within the 'Data' folder.
+The data required to run the [analysis](https://amoreo71.github.io/malawi_esbl_e_coli_genomics/Code/Reschistome_WORKING.html) in R can be found within the 'Data' folder.
